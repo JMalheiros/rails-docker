@@ -1,0 +1,2 @@
+CREATE USER johnny;
+ALTER USER johnny WITH SUPERUSER;
